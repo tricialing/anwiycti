@@ -1,0 +1,35 @@
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: posts ","time":"2017-07-23T06:37:36.652Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: users ","time":"2017-07-23T06:37:36.667Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: roles ","time":"2017-07-23T06:37:36.681Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: roles_users ","time":"2017-07-23T06:37:36.690Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: permissions ","time":"2017-07-23T06:37:36.695Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: permissions_users ","time":"2017-07-23T06:37:36.711Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: permissions_roles ","time":"2017-07-23T06:37:36.717Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: permissions_apps ","time":"2017-07-23T06:37:36.721Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: settings ","time":"2017-07-23T06:37:36.728Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: tags ","time":"2017-07-23T06:37:36.737Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: posts_tags ","time":"2017-07-23T06:37:36.743Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: apps ","time":"2017-07-23T06:37:36.750Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: app_settings ","time":"2017-07-23T06:37:36.757Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: app_fields ","time":"2017-07-23T06:37:36.763Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: clients ","time":"2017-07-23T06:37:36.794Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: client_trusted_domains ","time":"2017-07-23T06:37:36.801Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: accesstokens ","time":"2017-07-23T06:37:36.808Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: refreshtokens ","time":"2017-07-23T06:37:36.814Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: subscribers ","time":"2017-07-23T06:37:36.819Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: invites ","time":"2017-07-23T06:37:36.829Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Creating table: brute ","time":"2017-07-23T06:37:36.835Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Model: Post ","time":"2017-07-23T06:37:36.846Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Model: Tag ","time":"2017-07-23T06:37:38.759Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Model: Client ","time":"2017-07-23T06:37:38.779Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Model: Role ","time":"2017-07-23T06:37:38.803Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Model: Permission ","time":"2017-07-23T06:37:38.831Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Model: User ","time":"2017-07-23T06:37:39.200Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Relation: Role to Permission ","time":"2017-07-23T06:37:40.031Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Relation: Post to Tag ","time":"2017-07-23T06:37:40.393Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5246,"level":30,"msg":"Relation: User to Role ","time":"2017-07-23T06:37:40.474Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5257,"level":30,"msg":"Ghost is running in development... ","time":"2017-07-23T06:37:47.621Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5257,"level":30,"msg":"Listening on: 127.0.0.1:2368 ","time":"2017-07-23T06:37:47.630Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5257,"level":30,"msg":"Url configured as: http://localhost:2368/ ","time":"2017-07-23T06:37:47.631Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5257,"level":30,"msg":"Ctrl+C to shut down ","time":"2017-07-23T06:37:47.633Z","v":0}
+{"name":"Log","hostname":"Tricias-MacBook-Air.local","pid":5257,"level":30,"msg":"Ghost boot 3.962s ","time":"2017-07-23T06:37:47.636Z","v":0}
